@@ -1,0 +1,29 @@
+.todolist-task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+.todolist-btns{
+    display: flex;
+    column-gap: 10px;
+}
+.todolist-btn{
+    width: 70px;
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn btn-dark {
+    display: flex;
+}
+
+.btn btn-warning {
+    display: flex;
+}
+
+.btn btn-danger{
+    display: flex;
+}
+

@@ -1,0 +1,14 @@
+.todolist-name.done {
+    color: green;
+    text-decoration: line-through;
+
+}
+
+.todolist-name.important {
+    color: red;
+    font-size: 20px;
+}
+.todolist-name {
+    margin-bottom: 0;
+
+}

@@ -1,0 +1,19 @@
+.addtodo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+.addtodo-input{
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+}
+.addtodo-btn{
+    width: 70px;
+    height: 40px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}

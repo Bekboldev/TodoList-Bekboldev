@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    background-color:skyblue ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app-container{
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    padding: 20px 10px;
+    border-radius: 5px;
+}
